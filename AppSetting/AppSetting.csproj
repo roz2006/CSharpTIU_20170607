@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4C6E1CF0-B5AF-4F73-97C2-D7780D9D1CDC}</ProjectGuid>
+    <ProjectGuid>{3A0DCF31-8EB9-4BE3-A7DD-FFF523D89B30}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CollectionPractice</RootNamespace>
-    <AssemblyName>CollectionPractice</AssemblyName>
+    <RootNamespace>AppSetting</RootNamespace>
+    <AssemblyName>AppSetting</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

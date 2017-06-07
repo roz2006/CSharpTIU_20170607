@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Configuration;
 
 namespace CollectionPractice
 {
@@ -34,6 +35,8 @@ namespace CollectionPractice
                 }
             }
 
+            string moms=System.Configuration.ConfigurationManager.AppSettings["moms"];
+            Console.WriteLine(moms);
         }
     }
 }
