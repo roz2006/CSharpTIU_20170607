@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSetting", "AppSetting\Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatch", "FileWatch\FileWatch.csproj", "{3948560F-7FB8-485F-BC3E-4DE7465C5477}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerAndExtension", "IndexerAndExtension\IndexerAndExtension.csproj", "{4B68FC39-537D-4AA8-943D-B07A681DF06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExercise", "LinqExercise\LinqExercise.csproj", "{410AB069-D2C9-4A2A-B4DE-E082F7F56169}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{3948560F-7FB8-485F-BC3E-4DE7465C5477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3948560F-7FB8-485F-BC3E-4DE7465C5477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3948560F-7FB8-485F-BC3E-4DE7465C5477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B68FC39-537D-4AA8-943D-B07A681DF06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B68FC39-537D-4AA8-943D-B07A681DF06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B68FC39-537D-4AA8-943D-B07A681DF06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B68FC39-537D-4AA8-943D-B07A681DF06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410AB069-D2C9-4A2A-B4DE-E082F7F56169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410AB069-D2C9-4A2A-B4DE-E082F7F56169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410AB069-D2C9-4A2A-B4DE-E082F7F56169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410AB069-D2C9-4A2A-B4DE-E082F7F56169}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
